@@ -1,0 +1,49 @@
+
+.h-wrapper
+{
+    color: white;
+}
+.h-menu{
+    gap: 2rem;
+    padding-left:  300px;
+    color: white;
+    justify-content:space-between;
+    color: whitesmoke;
+}
+.aa{
+    color: whitesmoke;
+}
+h1
+{
+    font-size: 55px;
+    margin-left: 45px;
+}
+
+.h-menu>*:hover{
+    cursor: pointer;
+}
+.body{
+    background-image: url(/public/coffee_image.png);
+
+}
+.button
+{background:rgb(169, 47, 194);
+    padding: 0.6rem 1.4rem;}
+.blue-gradient
+{
+ position: absolute;
+ width: 50px;
+ height:30px ;
+ background: rgb(20, 20, 116);
+ 
+}
+
+.coffee-shop
+{
+    color: #FFF;
+font-family:Clicker script;
+font-size: 45px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

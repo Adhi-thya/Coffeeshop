@@ -1,0 +1,83 @@
+.third-wrapper {
+    width: 1366px;
+    height: 5085px;
+}
+
+/* .third-container
+{
+    justify-content: space-between;
+    align-items: flex-end;
+} */
+.third-left {
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+
+    gap: 48px;
+    flex-shrink: 0;
+    /* align-items: center; */
+}
+
+
+
+.third-right {
+
+    justify-content: right;
+    display: flex;
+    width: 1500px;
+    flex-direction: column;
+    align-items: flex-end;
+    flex-shrink: 0;
+}
+
+
+
+.third-title {
+    color: var(--coffee, #603809);
+    font-family: Playfair Display;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.third-des {
+    width: 570px;
+    color: #707070;
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    align-items: flex-end;
+    /* 170% */
+}
+
+.coffee-con {
+    width: 465px;
+    height: 465px;
+
+    background-image: url(/public/stylized-cup-coffee-out-coffee-beans-flat-lay\ 1.png);
+}
+
+.th-first {
+    width: 190px;
+    height: 81.5px;
+    flex-shrink: 0;
+    position: relative;
+    top: 120px;
+    left: 210px;
+
+}
+
+.th-second {
+    width: 190px;
+    height: 181.522px;
+    flex-shrink: 0;
+    position: relative;
+    top: 260px;
+    left: 20px;
+
+
+
+}

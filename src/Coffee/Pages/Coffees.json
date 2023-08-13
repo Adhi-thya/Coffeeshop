@@ -1,0 +1,28 @@
+[
+
+    {
+        "content":"Vestibulum eu quam nec neque pellentesque efficitur id eget nisl. Proin porta est convallis lacus blandit pretium sed non enim. Maecenas lacinia non orci at aliquam. Donec finibus, urna bibendum ultricies laoreet." ,
+        "name": "Chealsea Morgan",
+        "pos": "CEO ot Subway",
+        "ava":"/" 
+    },
+    {
+        "content":"In a laoreet purus. Integer turpis quam, laoreet id orci nec, ultrices lacinia nunc. Aliquam erat volutpat. Curabitur fringilla in purus eget egestas. Etiam quis." ,
+        "name": "Nick Cave",
+        "pos": "CMO ot Nokia",
+        "ava":"/" 
+    },
+    {
+        "content":"Aliquam pulvinar vestibulum blandit. Donec sed nisl libero. Fusce dignissim luctus sem eu dapibus. Pellentesque vulputate quam a quam volutpat, sed ullamcorper erat commodo." ,
+        "name": "Lana Rosenfeld",
+        "pos": "Senior VP ot Pinterest",
+        "ava":"/" 
+    },
+    {
+        "content":"Porta nisl dolor, molestie pellentesque elit molestie in. Morbi metus neque, elementum ullamcorper hendrerit eget, tincidunt et nisi. Sed magna nunc." ,
+        "name": "Giorgio Moroder",
+        "pos": "CTO ot Glovo",
+        "ava":"/" 
+    }
+    
+]

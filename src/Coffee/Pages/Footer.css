@@ -1,0 +1,62 @@
+.bodyf {
+    background-image: url(/public/fotter_image.png);
+    position: absolute;
+    filter: blur(7px);
+    z-index: -1;
+    width: 1366px;
+    height: 698px;
+    flex-shrink: 0;
+
+}
+.content
+{
+    top: 10px;
+}
+
+.head {
+    color: #22aac2;
+    font-family: Clicker Script;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.heading {
+    color: #947203;
+    font-family: Playfair Display;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.con
+{
+    height: 136px;
+    width: 168px;
+}
+.foo-con {
+    color: #4845ece1;
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 42px;
+    /* 233.333% */
+}
+.us-f
+{width: 332px;
+    height: 54px;
+    flex-shrink: 0;color: #4845ece1;
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}
+.us-s
+{color: #4845ece1;
+    font-family: Playfair Display;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}

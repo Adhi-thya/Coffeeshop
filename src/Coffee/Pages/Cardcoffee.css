@@ -1,0 +1,93 @@
+.r-wrapper
+{
+    height: 200px;
+    flex-shrink: 0;}
+    @font-face{
+        font-family: Playfair Display;
+        src: url(/public/PlayfairDisplay-VariableFont_wght.ttf);
+    }
+.last
+{
+    color: var(--coffee, #603809);
+font-family: Playfair Display;
+font-size: 54px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.coffees-tittle{width: 980px;}
+.coffees-p
+{color: #707070;
+    text-align: center;
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 170% */}
+.card
+{
+    display: flex;
+    height: 360px;
+    min-width: 200px;
+    max-height: 700px;
+width: 200px;
+min-width: 260px;
+max-width: 367px;
+padding: 23px 33px;
+flex-direction: column;
+align-items: flex-start;
+gap: 2px;
+top: 30px;
+left: 20px;
+border: 1px solid rgba(249, 192, 106, 0.42);
+background: #FFF9F1;
+box-shadow: 0px 16px 24px 0px rgba(118, 118, 178, 0.24);
+}
+/* svg{
+    display: flex;
+align-items: flex-start;
+} */
+.card:hover
+{
+    scale: 1.025;
+    cursor: pointer;
+}
+.card-content
+
+{
+    flex: 1 0 0;
+    color: rgba(35, 35, 64, 0.90);
+
+    /* Paragraph/Desktop */
+    font-family: Lexend Deca;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 150% */}
+    .card-name
+    {
+        color: var(--coffee, #603809);
+font-family: Playfair Display;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    }
+    .card-des
+    {
+        color: #1E1E1E;
+font-family: Playfair Display;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+.card-price
+{
+    color: var(--coffee, #603809);
+font-family: Playfair Display;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}

@@ -1,0 +1,65 @@
+.bodyl
+{
+    background-image: url(/public/last.png);
+    position: absolute;
+    filter: blur(13px);
+    z-index: -1;
+    width: 1366px;
+height: 374px;
+flex-shrink: 0;
+
+}
+@font-face{
+    font-family: Playfair Display;
+    src: url(/public/PlayfairDisplay-VariableFont_wght.ttf);
+}
+.last-title
+{
+    color: whitesmoke;
+font-family: Playfair Display;
+font-size: 54px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.last-con
+{width: 980px;}
+.last-text
+{
+    color:rgb(9, 212, 162);
+text-align: center;
+font-family: Playfair Display;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px; /* 170% */
+}
+.last-input
+{border-radius: 4px;
+    border: 1px solid rgba(249, 192, 106, 0.42);
+    background: #FFF9F1;
+    width: 642px;
+    height: 66px;
+    flex-shrink: 0;
+    color: rgba(0, 0, 0, 0.34);
+    padding-left: 15px;
+    font-family: Playfair Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 170% */}
+    .last-btn
+    {
+        width: 137px;
+height: 66px;
+flex-shrink: 0;
+border-radius: 4px;
+background: #F9C06A;
+box-shadow: 0px 6px 12px 0px rgba(249, 192, 106, 0.22);
+color: var(--coffee, #603809);
+font-family: Playfair Display;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    }
