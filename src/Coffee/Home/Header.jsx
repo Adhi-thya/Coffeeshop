@@ -10,7 +10,7 @@ const Header = () => {
     <div >
       <Navbar bg="dark" data-bs-theme="dark" expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home" className='coffee-shop'>Coffe shop</Navbar.Brand>
+        <Navbar.Brand href="#home" className='coffee-shop'>Coffee shop</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="flexCenter h-menu">
