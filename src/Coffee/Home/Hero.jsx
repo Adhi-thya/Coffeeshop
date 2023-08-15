@@ -13,7 +13,7 @@ const Hero = () => {
                     <br />
                     <div className="hero-coffe">Coffee</div>
                     <div >
-                        <span className="title">It is best to start your day with a cup of coffee. Discover the<br />
+                        <span className="hero-des">It is best to start your day with a cup of coffee. Discover the<br />
                             best flavours coffee you will ever have. We provide the best<br />
                             for our customers.
                         </span>

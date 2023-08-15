@@ -30,11 +30,7 @@
     font-weight: 700;
     line-height: normal;
 }
-.con
-{
-    height: 136px;
-    width: 168px;
-}
+
 .foo-con {
     color: #4845ece1;
     font-family: Playfair Display;
@@ -45,8 +41,7 @@
     /* 233.333% */
 }
 .us-f
-{width: 332px;
-    height: 54px;
+{
     flex-shrink: 0;color: #4845ece1;
     font-family: Playfair Display;
     font-size: 20px;
